@@ -1,0 +1,10 @@
+README.md
+setup.py
+xspamguard/__init__.py
+xspamguard/xspamguard.py
+xspamguard.egg-info/PKG-INFO
+xspamguard.egg-info/SOURCES.txt
+xspamguard.egg-info/dependency_links.txt
+xspamguard.egg-info/entry_points.txt
+xspamguard.egg-info/requires.txt
+xspamguard.egg-info/top_level.txt
