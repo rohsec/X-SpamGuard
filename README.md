@@ -1,4 +1,5 @@
-![xspamguardbanner]()
+![xspamguardbanner](![xspamguardbanner](https://github.com/rohsec/X-SpamGuard/assets/63975446/85bf7fcd-06aa-41a3-b2bf-99e9627418de)
+)
 
 # X-SpamGuard
 
