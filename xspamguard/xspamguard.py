@@ -210,5 +210,5 @@ def main():
 
 
 ############## SCRIPT START ######################3
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()

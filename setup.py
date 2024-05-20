@@ -20,13 +20,13 @@ setup(
     packages=find_packages(),
     install_requires=['requests'],
     classifiers=[
-        'Topic :: Twitter',
+        'Topic :: Security',
         'Operating System :: OS Independent',
         'Programming Language :: Python :: 3',
     ],
     entry_points={
         'console_scripts': [
-            'bmpy = xspamguard.xspamguard:main'
+            'xspamguard = xspamguard.xspamguard:main'
         ]
     },
     keywords=['twitter', 'block', 'blocker', 'twitter mute', 'X blocker', 'user block', 'Twitter']

@@ -1,2 +1,2 @@
 [console_scripts]
-bmpy = xspamguard.xspamguard:main
+xspamguard = xspamguard.xspamguard:main

@@ -1,19 +1,20 @@
 Metadata-Version: 2.1
 Name: xspamguard
-Version: 1.0.0
+Version: 1.1.1
 Summary: X-SpamGuard is a command-line utility tool designed for mass muting/blocking engagement spammers on X(twitter).
 Home-page: https://github.com/rohsec/X-SpamGuard
-Download-URL: https://github.com/rohsec/X-SpamGuard/archive/v1.0.0.zip
+Download-URL: https://github.com/rohsec/X-SpamGuard/archive/v1.1.1.zip
 Author: rohsec
 License: GNU Affero General Public License v3.0
 Keywords: twitter,block,blocker,twitter mute,X blocker,user block,Twitter
-Classifier: Topic :: Twitter
+Classifier: Topic :: Security
 Classifier: Operating System :: OS Independent
 Classifier: Programming Language :: Python :: 3
 Description-Content-Type: text/markdown
 Requires-Dist: requests
 
-![xspamguardbanner]()
+![xspamguardbanner](https://github.com/rohsec/X-SpamGuard/assets/63975446/85bf7fcd-06aa-41a3-b2bf-99e9627418de)
+
 
 # X-SpamGuard
 

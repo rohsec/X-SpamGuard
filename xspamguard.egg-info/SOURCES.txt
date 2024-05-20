@@ -8,3 +8,4 @@ xspamguard.egg-info/dependency_links.txt
 xspamguard.egg-info/entry_points.txt
 xspamguard.egg-info/requires.txt
 xspamguard.egg-info/top_level.txt
+xspamguard/__pycache__/__init__.cpython-311.pyc
