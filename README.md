@@ -42,6 +42,8 @@ options:
 ```
 
 ## Screnshots
+![xspamguardHelp](https://github.com/rohsec/X-SpamGuard/assets/63975446/99de6d00-b127-4ead-8a3d-10c3bd76ab4a)
+![xspamguardWorking](https://github.com/rohsec/X-SpamGuard/assets/63975446/7fcf6f91-fbfe-453b-9b7c-d6cc089c506e)
 
 
 ## License
