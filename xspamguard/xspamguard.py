@@ -38,7 +38,7 @@ def logo():
  _/\_    ___] |    |  | |  |    |__] |__| |  | |  \ |__/                                           
 {yellow}     ======= {blue}X(Twitter) Mass Muter/Blocker{yellow} ======{reset}                                                                
 {yellow}  Creator: {bblue}https://x.com/rohsec {yellow}[ {bred}@rohsec {yellow}]{reset}
-{yellow}  Coffee: {bblue}https://buymeacoffee.com/rohsec{reset}                    
+{yellow}  Coffee: {bblue}https://ko-fi.com/rohsec{reset}                    
 ╚════════════════════════════════════════════════════════╝""")
 def usage():
     print("Usage:\n")
